@@ -75,13 +75,15 @@ I created the input box, chart headers, ticker array, and to activate the specif
 
 In 2017, the stocks mostly generated a positive return, with DQ having the highest Return Rate. Only TERP generated a negative return.
 
-![VBA 2017 Screenshot]((https://github.com/tiffanylin706/stock-analysis/blob/a9f533ecb04ec8de97ffdd3353c368de1a1978c4/Resources/VBA_Challenge_2017.png))
+![VBA 2017 Screenshot](https://github.com/tiffanylin706/stock-analysis/blob/a9f533ecb04ec8de97ffdd3353c368de1a1978c4/Resources/VBA_Challenge_2017.png)
 
 ![VBA 2018 Screenshot](https://github.com/tiffanylin706/stock-analysis/blob/a9f533ecb04ec8de97ffdd3353c368de1a1978c4/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 ### Pros and Cons of Refactoring Code in General
 **Pros:** After refactoring, the code is fresher, easier to understand or read, less complex and easier to maintain. Refactoring helps make our code more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster programming. 
+
+
 **Cons:** Time consuming. Sometimes, applications are too large and it took more time than we expected. 
 
 ### Pros and Cons application to refactoring the original VBA script
