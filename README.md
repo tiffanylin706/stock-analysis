@@ -75,9 +75,9 @@ I created the input box, chart headers, ticker array, and to activate the specif
 
 In 2017, the stocks mostly generated a positive return, with DQ having the highest Return Rate. Only TERP generated a negative return.
 
-![VBA 2017 Screenshot](https://github.com/tiffanylin706/stock-analysis/blob/a9f533ecb04ec8de97ffdd3353c368de1a1978c4/Resources/VBA_Challenge_2017.png)
+![VBA 2017 Screenshot](https://github.com/tiffanylin706/stock-analysis/blob/c5681e82b6a90e8d141c382521ae4750e0fcf22b/Resources/VBA_Challenge_2017.png)
 
-![VBA 2018 Screenshot](https://github.com/tiffanylin706/stock-analysis/blob/a9f533ecb04ec8de97ffdd3353c368de1a1978c4/Resources/VBA_Challenge_2018.png)
+![VBA 2018 Screenshot](https://github.com/tiffanylin706/stock-analysis/blob/c5681e82b6a90e8d141c382521ae4750e0fcf22b/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 ### Pros and Cons of Refactoring Code in General
